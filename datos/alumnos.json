@@ -1,0 +1,42 @@
+[ 
+   { 
+     "Nombre": "Nicolas",
+     "dni":  41105487,
+     "tieneCurso": true,
+     "Domicilio": { 
+        "calle": "Gran colombia",
+        "numero": 394,
+        "Localidad": "Jose c paz"
+     }
+   },
+   { 
+     "Nombre": "Florencia",
+     "dni":  45267817,
+     "tieneCurso": true,
+     "Domicilio": { 
+        "calle": "La rioja",
+        "numero": 2005,
+        "Localidad": "San Miguel"
+     }
+   },
+   { 
+     "Nombre": "Dolores",
+     "dni":  1243514,
+     "tieneCurso": false,
+     "Domicilio": { 
+        "calle": "Misiones",
+        "numero": 2064,
+        "Localidad": "San Miguel"
+     }
+   },
+   { 
+     "Nombre": "Luis",
+     "dni":  56371831,
+     "tieneCurso": false,
+     "Domicilio": { 
+        "calle": "San Martin",
+        "numero": 500,
+        "Localidad": "Jose c paz"
+     }
+   }
+]
