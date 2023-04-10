@@ -1,0 +1,17 @@
+[
+    {
+        "identificación" : 209 ,
+        "sede" : " UNPAZ " ,
+        "esLaboratiro" : true
+    },
+    {
+        "identificación" : 211 ,
+        "sede" : " UNPAZ " ,
+        "esLaboratiro" : true
+    },    
+    {
+        "identificación" : 109 ,
+        "sede" : " UNPAZ " ,
+        "esLaboratiro" : false 
+    }
+]
