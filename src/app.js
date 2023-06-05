@@ -1,6 +1,6 @@
 const express = require ('express');
 const app = express()   //ejecucion de la funcion de arriba y el resultado es un objeto que lo va a tener en el const app
-const PORT = process.env.PORT || 3000; // nuestra app escucha en el puerto 3 mil 
+const PORT = process.env.PORT || 3002; // nuestra app escucha en el puerto 3 mil 
 const alumnosRouter = require ('./routes/alumnos.route')
 const aulasRouter = require ('./routes/aulas.routes')
 const docentesRouter = require ('./routes/docentes.route')
