@@ -7,7 +7,8 @@
         "calle": "Gran colombia",
         "numero": 394,
         "Localidad": "Jose c paz"
-     }
+     },
+     "codigoPais":  "ARG"
    },
    { 
      "Nombre": "Florencia",
@@ -17,7 +18,8 @@
         "calle": "La rioja",
         "numero": 2005,
         "Localidad": "San Miguel"
-     }
+     },
+     "codigoPais":  "BRA"
    },
    { 
      "Nombre": "Dolores",
@@ -27,7 +29,8 @@
         "calle": "Misiones",
         "numero": 2064,
         "Localidad": "San Miguel"
-     }
+     },
+     "codigoPais":  "ARG"
    },
    { 
      "Nombre": "Luis",
@@ -37,6 +40,7 @@
         "calle": "San Martin",
         "numero": 500,
         "Localidad": "Jose c paz"
-     }
+     },
+     "codigoPais":  "COL"
    }
 ]
